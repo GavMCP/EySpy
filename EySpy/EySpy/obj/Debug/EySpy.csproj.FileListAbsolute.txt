@@ -1,0 +1,6 @@
+C:\Users\Gavin\source\repos\EySpy\EySpy\obj\Debug\EySpy.csprojAssemblyReference.cache
+C:\Users\Gavin\source\repos\EySpy\EySpy\obj\Debug\EySpy.csproj.CoreCompileInputs.cache
+C:\Users\Gavin\source\repos\EySpy\EySpy\bin\Debug\EySpy.dll
+C:\Users\Gavin\source\repos\EySpy\EySpy\bin\Debug\EySpy.pdb
+C:\Users\Gavin\source\repos\EySpy\EySpy\obj\Debug\EySpy.dll
+C:\Users\Gavin\source\repos\EySpy\EySpy\obj\Debug\EySpy.pdb

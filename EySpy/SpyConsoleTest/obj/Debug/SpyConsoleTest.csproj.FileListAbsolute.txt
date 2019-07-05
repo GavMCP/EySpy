@@ -1,0 +1,10 @@
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\bin\Debug\SpyConsoleTest.exe.config
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\bin\Debug\SpyConsoleTest.exe
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\bin\Debug\SpyConsoleTest.pdb
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\bin\Debug\EySpy.dll
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\bin\Debug\EySpy.pdb
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\obj\Debug\SpyConsoleTest.csprojAssemblyReference.cache
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\obj\Debug\SpyConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\obj\Debug\SpyConsoleTest.csproj.CopyComplete
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\obj\Debug\SpyConsoleTest.exe
+C:\Users\Gavin\source\repos\EySpy\SpyConsoleTest\obj\Debug\SpyConsoleTest.pdb
